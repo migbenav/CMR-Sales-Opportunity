@@ -14,7 +14,10 @@ Initial exploration of the dataset to uncover structure, distributions, and anom
 Analysis of opportunity stages, win rates, and deal velocity.
 
 ### Sales Performance Metrics
-Key metrics such as average deal size, team and sales agent performancec, and revenue contribution.
+Key metrics such as average deal size, team and sales agent performance, and revenue contribution.
+
+### Predictive Analysis
+Using closed deals to predict outcomes for prospecting and engaged deals.
 
 ### Dataset
 The analysis uses CMR Sales Opportunity data from MAVEN. 
