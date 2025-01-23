@@ -5,8 +5,9 @@ B2B sales pipeline data from a fictitious company that sells computer hardware, 
 - [Project Overview](#project-overview)
 - [Key Objectives](#key-objectives)
 - [Folder Structure](#folder-structure)
-- [Data Sources](#data-sources)
 - [Requirements](#requirements)
+- [Data Sources](#data-sources)
+
 
 ## Project Overview
 This project focuses on analyzing and visualizing sales opportunities from a CMR (Customer Management Relationship) system. The goal is to provide an in-depth look into the sales pipeline, identify potential bottlenecks, and explore factors contributing to successful opportunities.
