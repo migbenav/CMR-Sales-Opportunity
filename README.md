@@ -21,3 +21,5 @@ Using closed deals to predict outcomes for prospecting and engaged deals.
 
 ### Dataset
 The analysis uses CMR Sales Opportunity data from MAVEN. 
+
+[File](https://nbviewer.org/github/migbenav/CMR-Sales-Opportunity/blob/main/notebooks/CMR%20Sales%20Analysis%2001.ipynb)
