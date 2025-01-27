@@ -28,7 +28,7 @@ The project files are organized as follows:
 - **`notebooks/`**  
   Contains Jupyter notebooks for different stages of the analysis:
   - `CRM Sales - Data Loading and Cleaning.ipynb`: Initial data cleaning and preprocessing.
-  - `CRM Sales Analysis 01.ipynb`: Features a Sankey diagram illustrating stages and opportunities in each stage. [Ploty Chart](https://nbviewer.org/github/migbenav/CMR-Sales-Opportunity/blob/main/notebooks/CMR%20Sales%20Analysis%2001.ipynb){:target="_blank"}
+  - `CRM Sales Analysis 01.ipynb`: Features a Sankey diagram illustrating stages and opportunities in each stage. [Ploty Chart](https://nbviewer.org/github/migbenav/CMR-Sales-Opportunity/blob/main/notebooks/CMR%20Sales%20Analysis%2001.ipynb){::target="_blank"}
   - `CRM Sales Analysis 02.ipynb`: In-depth analysis of sales team performance.
   - `CRM Sales Analysis 03.ipynb`: Identification of underperforming sales agents.
   - `CRM Sales Analysis 04.ipynb`: Quarter-over-quarter trend analysis.
