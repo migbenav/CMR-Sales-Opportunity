@@ -34,6 +34,7 @@ The project files are organized as follows:
   - `CRM Sales Analysis 04.ipynb`: Quarter-over-quarter trend analysis.
   - `CRM Sales Analysis 05.ipynb`: Product win rate analysis.
   - `CRM Sales Analysis 06.ipynb`: Predictions for Win/Lost opportunities in the prospecting and engaging stages using XGBoost.
+- **visuals/**: Contain Link to tableau Public Dashboard
 - **README.md**: This file, providing an overview and instructions.
 
 ## Requirements
