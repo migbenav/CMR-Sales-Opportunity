@@ -28,7 +28,7 @@ The project files are organized as follows:
 - **`notebooks/`**  
   Contains Jupyter notebooks for different stages of the analysis:
   - `CRM Sales - Data Loading and Cleaning.ipynb`: Initial data cleaning and preprocessing.
-  - `CRM Sales Analysis 01.ipynb`: Features a Sankey diagram illustrating stages and opportunities in each stage. [Ploty Chart](https://nbviewer.org/github/migbenav/CMR-Sales-Opportunity/blob/main/notebooks/CMR%20Sales%20Analysis%2001.ipynb){::target="_blank"}
+  - `CRM Sales Analysis 01.ipynb`: Features a Sankey diagram illustrating stages and opportunities in each stage. [Ploty Chart](https://nbviewer.org/github/migbenav/CMR-Sales-Opportunity/blob/main/notebooks/CMR%20Sales%20Analysis%2001.ipynb)
   - `CRM Sales Analysis 02.ipynb`: In-depth analysis of sales team performance.
   - `CRM Sales Analysis 03.ipynb`: Identification of underperforming sales agents.
   - `CRM Sales Analysis 04.ipynb`: Quarter-over-quarter trend analysis.
@@ -49,4 +49,4 @@ The project uses Python and the following key libraries:
 - XGBoost
 
 ## Data Sources
-The analysis uses CMR Sales Opportunity data from [MAVEN](https://mavenanalytics.io/data-playground?accessType=open&dataStructure=Multiple%20tables&order=date_added%2Cdesc&tags=Business){:target="_blank"}
+The analysis uses CMR Sales Opportunity data from [MAVEN](https://mavenanalytics.io/data-playground?accessType=open&dataStructure=Multiple%20tables&order=date_added%2Cdesc&tags=Business)
